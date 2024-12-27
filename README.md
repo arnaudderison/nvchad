@@ -1,0 +1,2 @@
+# nvchad
+memory nvchad
